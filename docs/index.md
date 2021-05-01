@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a una guía básica sobre Markdown
 
 You can use the [editor on GitHub](https://github.com/CorralGio/EjemploPagina/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
