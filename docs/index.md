@@ -1,12 +1,12 @@
 ## Bienvenido a una guía básica sobre Markdown
 
-You can use the [editor on GitHub](https://github.com/CorralGio/EjemploPagina/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Esta página esta diseñada base un tema de la herramienta de Jekyll en Github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML
 
 ```markdown
 Syntax highlighted code block
